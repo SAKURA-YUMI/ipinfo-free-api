@@ -1,9 +1,5 @@
 # IPinfo-free-api-pages.dev
 
-I am honored that DARTNODE is offering a free server to sponsor my project.DARTNODE's official website:https://dartnode.com
-
-![image](https://github.com/eooce/node.js-direct/assets/142894633/bda45b56-490a-4964-a782-6e0e70783d36)
-
 ipinfo free api using pages.dev
 This project provides a simple HTML page that allows users to utilize an API for querying specific IP information. The page contains links which open in new windows to perform different types of queries such as retrieving details about a particular IP, fetching your own IP address, and obtaining ASN (Autonomous System Number) information.
 
@@ -32,3 +28,11 @@ To use this tool:
 ## License
 
 Distributed under the MIT license.
+
+## Sponsor
+We are proudly sponsored by DartNode.  DartNode supports our project by providing [mention the specific support they offer, such as infrastructure, services, etc.].
+websize:https://dartnode.com
+
+[![DartNode Logo](https://app.dartnode.com/assets/dash/images/brand/favicon.png)](https://dartnode.com)
+
+Please consider supporting DartNode as they are not only supporting us but also contributing to the open-source community.
